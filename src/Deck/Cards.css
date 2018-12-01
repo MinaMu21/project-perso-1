@@ -1,0 +1,12 @@
+.imageSize{
+    width: 300px;
+}
+
+.deck-container{
+    background-color: rgba(0,0,0,0.6);
+    font-family: 'Mystery Quest', cursive;
+    color: white;
+    width: auto;
+    height: auto;
+    
+}

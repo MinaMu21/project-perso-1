@@ -1,0 +1,33 @@
+.navColor{
+    position: fixed;
+    z-index: 100;
+    background-color: black;
+}
+
+.colorLink{
+    color:white !important;
+    opacity: 0.8;
+    font-size: 18px;
+    padding: 20px;
+    
+}
+
+.colorLink:hover {
+    color: rgb(253, 80, 198) !important;
+    text-shadow: 2px 2px 1px black;
+    text-decoration: none;
+}
+
+@media screen and (max-width: 860px) {
+    .responsiveNav {
+        font-size: 1.0em;
+        top: 0px;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .responsiveNav {
+        font-size: 0.7em;
+        padding-bottom: 30px;
+    }
+}

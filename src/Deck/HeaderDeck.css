@@ -1,0 +1,8 @@
+.HeaderTitre{
+    margin-top: 40px;
+    background-color: rgba(0, 0, 0, 0.6);
+    width: 90%;
+    font-family: 'Spicy Rice', cursive;
+    color: white;
+    font-weight: bold;
+}

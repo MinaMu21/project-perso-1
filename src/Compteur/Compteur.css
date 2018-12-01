@@ -1,0 +1,52 @@
+.colorCompteur{
+    font-weight: bolder;
+    font-family: 'Monoton', cursive;
+    font-size: 40px;
+    color: white;
+    background-color: rgba(36, 37, 42, 0.577);
+    box-shadow: 10px 5px 5px black; 
+    width: 40%;
+    margin-left: 285px;
+    margin-top: 300px;
+}
+
+.affichageCompteur{
+    border: 1px solid black;
+    font-size: 55px;
+    padding-left: 21px;
+    padding-right: 21px;
+}
+
+.colorBouton{
+    font-size: 35px !important;
+    font-weight: bold;
+    background-color: rgb(220, 57, 174) !important;
+    color: black !important;
+    box-shadow: 10px 5px 5px black; 
+    padding-left: 20px !important;
+    padding-right: 20px !important; 
+    
+}
+
+.colorBoutonClear{
+    font-size: 35px !important;
+    font-weight: bold;
+    background-color: rgb(15, 36, 194) !important;
+    color: white !important;
+    box-shadow: 10px 5px 5px black; 
+    padding-left: 30px !important;
+    padding-right: 30px !important;
+
+}
+
+.fondCompteur{
+    height: 800px;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid black;
+    padding: 25px;
+    background: url('https://st3.depositphotos.com/1003456/17863/v/1600/depositphotos_178634948-stock-illustration-futuristic-interface-hud-design-infographic.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+}

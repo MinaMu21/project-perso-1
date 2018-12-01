@@ -1,0 +1,11 @@
+.titre{
+
+    font-family: fantasy, serif;
+    color: rgb(241, 62, 185);
+}
+.allchart{
+    background-image: url('https://www.usinenouvelle.com/mediatheque/9/1/0/000283019_image_896x598/algorithmes.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.85;
+}

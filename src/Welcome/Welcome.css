@@ -1,0 +1,13 @@
+.welcome{
+    height: 100px;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.positionTitre{
+    position: relative;
+    padding-top: 60px;
+    color: black;
+    text-shadow: 2px 1px 5px rgb(247, 51, 207);
+}

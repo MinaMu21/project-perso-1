@@ -1,0 +1,46 @@
+.fondChrono{
+    height: 800px;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid black;
+    padding: 25px;
+    background: url('http://spillwords.com/wp-content/uploads/2016/08/This-is-what-the-entire-known-Universe-looks-like-in-a-single-image-spillwords.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+    color: white;
+}
+
+
+.colorChrono{
+    font-weight: bold;
+    font-family: 'Monoton', cursive;
+    font-size: 40px;
+    justify-content: center;
+    color: white;
+    background-color: rgba(36, 37, 42, 0.577);
+    box-shadow: 10px 5px 5px black; 
+    width: 40%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-left: 330px;
+    margin-top: 250px;
+      
+}
+
+.btnforme{
+    font-size: 30px !important;
+    font-weight: bold !important;
+    box-shadow: 10px 5px 5px black; 
+    padding-left: 30px !important;
+    padding-right: 30px !important;
+
+}
+
+.btnformeClear{
+    font-size: 20px !important;
+    font-weight: bold !important;
+    box-shadow: 10px 5px 5px black; 
+    padding-left: 30px !important;
+    padding-right: 30px !important;
+}

@@ -1,0 +1,34 @@
+ul {
+  list-style: none;
+}
+
+.cardVisible {
+  height: 1500px;
+  justify-content: center;
+  align-items: center;
+  background: url('https://pricepointreport.com/wp-content/uploads/2018/09/peinture-monde-fantastique-des-paysages-de-printemps-d-orient-fonds-avec-et-paysage-fantastique-fond-d-ecran-3-1920x1200px-paysage-fantastique-fond-d-ecran.jpg');
+  background-repeat: no-repeat;
+  background-position: top;
+  background-size: auto;
+}
+
+.deck-list {
+  border: 2px solid #e729bb;
+  padding: 10px;
+
+}
+
+.textDeck {
+  color: white;
+  margin-bottom: 50px;
+  background-color: rgba(0, 0, 0, 0.6);
+  width: 90%;
+  font-family: 'Spicy Rice', cursive;
+  color: white;
+  font-weight: bold;
+}
+
+.clearText{
+  font-family: 'Mystery Quest', cursive;
+  
+}
